@@ -2,4 +2,4 @@ name: DiscordRelay
 author: Jack Noordhuis
 main: jacknoordhuis\discordrelay\DiscordRelay
 version: 0.0.2-ALPHA
-api: 3.0.0
+api: 3.11.6
